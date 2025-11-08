@@ -1,0 +1,5 @@
+{
+  "name": "quantum-node-gateway",
+  "private": true,
+  "type": "module"
+}
