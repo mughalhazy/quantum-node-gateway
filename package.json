@@ -1,5 +1,13 @@
 {
   "name": "quantum-node-gateway",
+  "version": "1.0.0",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "description": "Quantum Node Gateway — WHM + Billing API",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
 }
